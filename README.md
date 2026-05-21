@@ -18,7 +18,7 @@ A complete [Jinja2](https://jinja.palletsprojects.com/) template engine implemen
 ## Installation
 
 ```bash
-go get jinja-go
+go get github.com/flaming999/jinja-go
 ```
 
 ## Quickstart
@@ -30,7 +30,7 @@ package main
 
 import (
     "fmt"
-    "jinja-go"
+    "github.com/flaming999/jinja-go"
 )
 
 func main() {
